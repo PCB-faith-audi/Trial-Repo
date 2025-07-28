@@ -1,5 +1,5 @@
-GIT AND GITHUB BASICS
+# GIT AND GITHUB BASICS
 
-learnt how to push
+- learnt how to push
 
-git basics
+- git basics
